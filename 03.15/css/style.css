@@ -1,0 +1,16 @@
+#div1{
+    height: 25vh;
+    background-color: red;
+}
+#div2{
+    height: 25vh;
+    background-color: blue;
+}
+#div3{
+    height: 25vh;
+    background-color: aquamarine;
+}
+button{
+color: rgb(231, 244, 176);}
+
+body{background-color: rgb(198, 171, 223);}
